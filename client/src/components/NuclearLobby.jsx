@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import './nuclear-lobby.css';
+import './NuclearLobby.css';
 
 // Демо-компонент экрана лобби/комнаты.
 // Реальные сокет-события (создание/присоединение/старт) сюда пробрасываются
